@@ -1,0 +1,16 @@
+customer_id,customer_name,email,registration_date,total_purchases,lifetime_value,customer_tenure_days,acquisition_channel
+CUST001,Budi Santoso,budi.santoso@email.com,2021-06-15,8,14500000,600,Google Ads
+CUST002,Siti Nurhaliza,siti.nur@email.com,2021-07-20,5,6200000,580,Instagram
+CUST003,Ahmad Wijaya,ahmad.wijaya@email.com,2021-08-10,12,18900000,560,Referral
+CUST004,Diana Putri,diana.putri@email.com,2021-09-05,6,8750000,540,Facebook
+CUST005,Eka Prasetya,eka.prasetya@email.com,2021-10-12,4,5100000,520,Email Campaign
+CUST006,Fajar Hermawan,fajar.h@email.com,2021-11-03,9,16200000,500,Direct
+CUST007,Gina Melodia,gina.mel@email.com,2021-12-01,3,3850000,480,Google Ads
+CUST008,Hendra Kusuma,hendra.k@email.com,2022-01-08,7,12450000,460,Instagram
+CUST009,Indah Lestari,indah.lest@email.com,2022-01-15,5,7600000,450,Referral
+CUST010,Joko Mulyana,joko.mul@email.com,2022-02-01,10,15800000,440,Facebook
+CUST011,Karina Salsabila,karina.sal@email.com,2022-02-10,4,5950000,430,Email Campaign
+CUST012,Lina Wijaya,lina.wijaya@email.com,2022-02-20,6,9200000,420,Direct
+CUST013,Maman Suryaman,maman.sur@email.com,2022-03-01,8,14100000,410,Google Ads
+CUST014,Nita Suhartono,nita.suhar@email.com,2022-03-15,5,7450000,395,Instagram
+CUST015,Osis Pratama,osis.prat@email.com,2022-03-25,11,17600000,385,Referral

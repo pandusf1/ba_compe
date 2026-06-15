@@ -1,0 +1,31 @@
+transaction_id,customer_id,product_id,order_date,purchase_amount,quantity,payment_method,region,product_category,discount_applied,return_status
+TXN001,CUST001,PROD001,2022-01-05,1250000,1,credit_card,Jakarta,Electronics,5,No
+TXN002,CUST002,PROD002,2022-01-06,450000,2,debit_card,Surabaya,Fashion,0,No
+TXN003,CUST003,PROD003,2022-01-07,750000,1,e_wallet,Bandung,Home & Living,10,No
+TXN004,CUST001,PROD004,2022-01-08,2100000,1,credit_card,Jakarta,Electronics,0,No
+TXN005,CUST004,PROD005,2022-01-09,580000,3,debit_card,Medan,Fashion,15,No
+TXN006,CUST005,PROD006,2022-01-10,920000,1,e_wallet,Jakarta,Electronics,5,Yes
+TXN007,CUST002,PROD007,2022-01-11,340000,2,credit_card,Surabaya,Home & Living,0,No
+TXN008,CUST006,PROD008,2022-01-12,1850000,1,debit_card,Bandung,Electronics,10,No
+TXN009,CUST003,PROD009,2022-01-13,670000,2,e_wallet,Jakarta,Fashion,0,No
+TXN010,CUST007,PROD010,2022-01-14,420000,1,credit_card,Yogyakarta,Home & Living,20,No
+TXN011,CUST001,PROD011,2022-01-15,890000,1,debit_card,Jakarta,Fashion,5,No
+TXN012,CUST008,PROD012,2022-01-16,1450000,1,e_wallet,Surabaya,Electronics,0,Yes
+TXN013,CUST004,PROD013,2022-01-17,520000,2,credit_card,Medan,Home & Living,10,No
+TXN014,CUST009,PROD014,2022-01-18,760000,1,debit_card,Jakarta,Electronics,5,No
+TXN015,CUST010,PROD015,2022-01-19,630000,3,e_wallet,Bandung,Fashion,15,No
+TXN016,CUST002,PROD016,2022-01-20,1120000,1,credit_card,Surabaya,Electronics,0,No
+TXN017,CUST011,PROD017,2022-01-21,480000,2,debit_card,Jakarta,Home & Living,5,No
+TXN018,CUST005,PROD018,2022-01-22,850000,1,e_wallet,Yogyakarta,Electronics,10,No
+TXN019,CUST003,PROD019,2022-01-23,720000,2,credit_card,Bandung,Fashion,0,Yes
+TXN020,CUST012,PROD020,2022-01-24,590000,1,debit_card,Jakarta,Home & Living,5,No
+TXN021,CUST006,PROD001,2022-01-25,1250000,1,e_wallet,Medan,Electronics,10,No
+TXN022,CUST001,PROD002,2022-01-26,450000,2,credit_card,Jakarta,Fashion,0,No
+TXN023,CUST013,PROD003,2022-01-27,750000,1,debit_card,Surabaya,Home & Living,15,No
+TXN024,CUST004,PROD004,2022-01-28,2100000,1,e_wallet,Jakarta,Electronics,5,No
+TXN025,CUST014,PROD005,2022-01-29,580000,3,credit_card,Bandung,Fashion,10,No
+TXN026,CUST007,PROD006,2022-01-30,920000,1,debit_card,Jakarta,Electronics,0,Yes
+TXN027,CUST002,PROD007,2022-02-01,340000,2,e_wallet,Yogyakarta,Home & Living,5,No
+TXN028,CUST015,PROD008,2022-02-02,1850000,1,credit_card,Jakarta,Electronics,10,No
+TXN029,CUST003,PROD009,2022-02-03,670000,2,debit_card,Medan,Fashion,0,No
+TXN030,CUST008,PROD010,2022-02-04,420000,1,e_wallet,Surabaya,Home & Living,15,No
